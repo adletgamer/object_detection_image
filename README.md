@@ -1,1 +1,1 @@
-# object_detection_image
+# object_detection_image using Media Pipe
